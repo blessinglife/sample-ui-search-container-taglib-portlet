@@ -4,10 +4,8 @@ Compatible with Liferay 6.1.1 GA2.  Not tested with other versions.
 
 Original portlet developed by Liferay, Inc. Retrieved from https://github.com/liferay/liferay-plugins/tree/master/portlets/sample-ui-search-container-taglib-portlet
 Author: Drew A. Blessing
-Date: August 21, 2012
+Date: September 30, 2012
 
 This portlet was written to give a working example of how the Liferay UI search container taglib works. 
-
-This package contains both the source code and a deployable WAR file. To deploy a working example simply drop the .war file in your Liferay hot deploy directory.
 
 NOTE: I am providing this portlet in hopes of helping others. I do not mind if you copy, post, share this package as long as proper credit is given. Any copies/modifications must be distributed in accordance with the original license provided by Liferay, Inc.
