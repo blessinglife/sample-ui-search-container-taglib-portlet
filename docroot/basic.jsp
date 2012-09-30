@@ -89,7 +89,7 @@ a number of ways, including as seen above.
         items appear on one page. Most of the time you will likely want
         to leave the default because you want to paginate your results.
         --> 
-	<liferay-ui:search-iterator paginate=<%=false %> /> 
+	<liferay-ui:search-iterator paginate="<%=false %>" /> 
 </liferay-ui:search-container>
 
 <div class="separator"></div>
